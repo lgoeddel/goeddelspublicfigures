@@ -39,7 +39,7 @@ The application is built using:
 - **Streamlit**: For the interactive web interface
 - **Pandas & NumPy**: For data handling and calculations
 - **Matplotlib & Seaborn**: For visualization of risk assessment
-- **Python**: For implementing the statistical risk model
+
 
 ## Limitations
 
@@ -48,13 +48,3 @@ While providing valuable risk estimates, this tool:
 - May not capture all possible risk factors or unique patient circumstances
 - Is based on historical data that may not reflect the most recent advances
 
-## Disclaimer
-
-This calculator is provided for educational and informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment.
-
-## Usage
-
-To run the application locally:
-```
-streamlit run jhmortality_app.py
-```
